@@ -1,4 +1,4 @@
-# Resume
+# ABOUT
 Example of how to add a custom attribute to address entity on Magento 2 CE.
 
 # TODO
