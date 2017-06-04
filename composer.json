@@ -1,0 +1,11 @@
+{
+    "name": "danielozano/customer-attribute",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Daniel Lozano",
+            "email": "dn.lozano.m@gmail.com"
+        }
+    ],
+    "require": {}
+}
